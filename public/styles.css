@@ -1,0 +1,26 @@
+.watermark {
+    display: none !important;
+}
+
+
+:root {
+    --pink-main: #2fb681;
+    /* Main pink */
+    --pink-dark: #2fb681;
+    /* Dark pink */
+    --pink-light: #FFE7EB;
+    /* Light pink */
+
+    --black-main: #212121;
+    /* Sidebar, etc */
+    --black-tint: #303030;
+    /* Background of chat, etc */
+    --grey-light: #616161;
+    /* Light grey */
+    --grey-very-light: #BDBDBD;
+    /* Very light grey */
+    --grey-mid-paper: #FAFAFA;
+    /* Midgrey (paper) */
+    --offwhite: #EEEEEE;
+    /* Offwhite */
+}
